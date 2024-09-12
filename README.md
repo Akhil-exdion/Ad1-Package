@@ -1,6 +1,6 @@
 pip install <wheel file>
 
-## How to call
+## How to use
 import logging
 from adService import service
 from adService import service, service_interface
