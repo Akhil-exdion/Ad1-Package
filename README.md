@@ -1,5 +1,3 @@
-pip install <wheel file>
-
 ## How to use
 import logging
 from adService import service
